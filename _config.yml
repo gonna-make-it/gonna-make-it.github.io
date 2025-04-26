@@ -1,4 +1,13 @@
-title: Nishant Bansal's corner of the web
-author: Nishant Bansal
-description: Under construction
+title: "Nishant Bansal's Corner of the Web"
+author:
+  name: "Nishant Bansal"
+description: "Under construction — stay tuned!"
 theme: minima
+
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: https://github.com/nishantbansal2509
+    - platform: linkedin
+      user_url: https://linkedin.com/in/nishantbansal2509
