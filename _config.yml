@@ -2,7 +2,7 @@ title: "Nishant Bansal's Corner of the Web"
 author:
   name: "Nishant Bansal"
 description: "Under construction — stay tuned!"
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 
 minima:
   skin: dark
