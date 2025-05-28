@@ -9,11 +9,13 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Nishant Bansal"
-  # headline = "Surfer afraid of swimming"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "Nishant Bansal"
+  headline = "Surfer afraid of swimming"
+  image = "img/author.jpg"  # path relative to static directory
 
   links = [
+    { link = { href = "https://blog.nishantbansal.in", text = "Blog" } },
+    { link = { href = "https://notes.nishantbansal.in", text = "Notes" } },
     { email = "mailto:nishantbansal2509@gmail.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -27,7 +29,7 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+    { github = "https://github.com/nishantbansal2509" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
     # { instagram = "https://instagram.com/username" },
