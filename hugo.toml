@@ -57,7 +57,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
+    { x = "https://x.com/_nishant_dawn_" },
     # { youtube = "https://youtube.com/username" },
   ]
 
